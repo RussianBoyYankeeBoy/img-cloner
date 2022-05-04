@@ -8,7 +8,7 @@ public class PhotosCloneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PhotosCloneApplication.class, args);
-		System.err.println("APP starts");
+		System.err.println("Штраф за нарушение политики телеграма");
 	}
 
 }
